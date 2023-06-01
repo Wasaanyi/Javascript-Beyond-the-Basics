@@ -19,8 +19,8 @@ console.log(squaredNumbers);
 
 // filter() 
 const filteredNumbers = numbers.filter(number => number >= 5);
-// console.log(filteredNumbers);
+console.log(filteredNumbers);
 
 // find()
 const targetBook = books.find(book => book.author === "Priya Parker");
-// console.log(targetBook);
+console.log(targetBook);
